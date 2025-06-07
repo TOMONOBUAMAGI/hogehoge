@@ -1,0 +1,8 @@
+allow-prefix:
+  - "[BFF]"
+  - "[Infra]"
+  - "[CI/CD]"
+  - "[iOS]"
+  - "[Go]"
+  - "[TS]"
+  - "[Go/TS]"
